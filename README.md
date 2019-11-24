@@ -1,2 +1,2 @@
-# Git_Commands
-Git admin commands
+# git-commands
+Commands_repo
